@@ -1,3 +1,8 @@
 title: MNIST Neural Network Walkthrough
 description: MNIST Hand Digit Recognition Walkthrough for AI @ UCI
 theme: jekyll-theme-cayman
+
+# GitHub repository settings
+repository: jonnypan2325/MNIST-NN
+url: https://jonnypan2325.github.io
+baseurl: /MNIST-NN

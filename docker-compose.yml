@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  jekyll:
+    image: jekyll/jekyll:latest
+    container_name: mnist-nn-docs
+    ports:
+      - "4000:4000"      # Jekyll server
+      - "35729:35729"    # LiveReload
+    volumes:
+      - ./docs:/srv/jekyll
+    command: jekyll serve --force_polling --livereload --host 0.0.0.0
+    environment:
+      - JEKYLL_ENV=development

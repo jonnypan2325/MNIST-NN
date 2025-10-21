@@ -1,0 +1,42 @@
+<nav class="site-navigation">
+  <ul>
+    <li><a href="{{ site.baseurl }}/index.html">Home</a></li>
+    <li><a href="{{ site.baseurl }}/mnist_introduction.html">MNIST Introduction</a></li>
+    <li><a href="{{ site.baseurl }}/simple_nn.html">Simple Neural Network</a></li>
+  </ul>
+</nav>
+
+<style>
+.site-navigation {
+  background-color: #f5f5f5;
+  padding: 1rem;
+  margin-bottom: 2rem;
+  border-radius: 5px;
+}
+
+.site-navigation ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.site-navigation li {
+  margin: 0;
+}
+
+.site-navigation a {
+  text-decoration: none;
+  color: #155799;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+  border-radius: 3px;
+  transition: background-color 0.3s;
+}
+
+.site-navigation a:hover {
+  background-color: #e0e0e0;
+}
+</style>

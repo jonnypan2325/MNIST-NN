@@ -1,6 +1,4 @@
-# A simple Neural Network
+{% include navigation.html %}
 
-## Navigation
-- [Home](index.md)
-- [MNIST Introduction](mnist_introduction.md)
+# A simple Neural Network
  
