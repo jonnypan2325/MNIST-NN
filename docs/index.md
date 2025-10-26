@@ -39,6 +39,6 @@ https://www.geeksforgeeks.org/machine-learning/mnist-dataset/#
 # Acknowledgement:
 AI@UCI, 
 
-Project Co-Leads: Sri,
+Project Co-Leads: Sri Gubbala, Johanatan Pan
 
-Project Coordinators: Harsh, Pranav,
+Project Coordinators: Harsh, Pranav
