@@ -80,3 +80,7 @@ The grad\_descent function simply runs these three steps in a for loop (e.g., 70
 3. **Update Weights** (Gradient Descent)
 
 With each loop, the weights (W1, W2) get slightly "smarter." The accuracy we print shows this live: the model goes from guessing randomly (around 10% accuracy) to correctly identifying digits over 85% of the time, all by repeating this simple mathematical loop.
+
+Resources:
+
+https://colab.research.google.com/drive/1kUecu930LxyizucXaUVA1ERfGlsnODdw?usp=sharing
