@@ -1,6 +1,7 @@
-{% include navigation.html %}
-
 # A simple Neural Network
+Complementary Colab notbook to explore Neural Networks with.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1kUecu930LxyizucXaUVA1ERfGlsnODdw?usp=sharing)
 
 # **How Our AI Recognizes Digits: A Math-Based Guide**
 

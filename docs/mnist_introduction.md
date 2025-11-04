@@ -1,5 +1,3 @@
-{% include navigation.html %}
-
 # Intro to MNIST Dataset
 
 ### What is MNIST?
@@ -95,6 +93,7 @@ print(f"Test batches: {len(test_loader)}")
 ---
 
 ### Additional Resources
+Fun fact, UCI is globally known for its machine learning repository, which has been available online since 1987!
 - **Official MNIST Database:** [http://yann.lecun.com/exdb/mnist/](http://yann.lecun.com/exdb/mnist/)  
 - **UCI Machine Learning Repository (MNIST):** [https://archive.ics.uci.edu/dataset/683/mnist+database+of+handwritten+digits](https://archive.ics.uci.edu/dataset/683/mnist+database+of+handwritten+digits)  
 - **TensorFlow Datasets (MNIST):** [https://www.tensorflow.org/datasets/catalog/mnist](https://www.tensorflow.org/datasets/catalog/mnist)  

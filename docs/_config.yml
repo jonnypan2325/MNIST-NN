@@ -6,3 +6,6 @@ theme: jekyll-theme-cayman
 repository: jonnypan2325/MNIST-NN
 url: https://jonnypan2325.github.io
 baseurl: /MNIST-NN
+
+# Hide "View on GitHub" button
+show_downloads: false
