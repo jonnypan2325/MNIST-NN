@@ -1,3 +1,7 @@
+---
+layout: default
+title: MNIST Neural Network Walkthrough
+---
 # Welcome!
 
 This is a self paced project where we will release new modules weekly. 
