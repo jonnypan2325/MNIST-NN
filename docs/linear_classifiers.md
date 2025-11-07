@@ -51,17 +51,17 @@ How does a computer understand a line? Through an equation. The decision boundar
 
 You might remember from algebra that a line can be written in point-slope form as `y = mx + c`. While this is useful, it's not the most convenient for classification. Let's rearrange it:
 
-```math
+$$
 y - mx - c = 0
-```
+$$
 
 By moving all terms to one side, we've established a new rule: for any point `(x, y)` that lies exactly on the line, the expression `y - mx - c` will be equal to zero.
 
 In machine learning, we use a slightly different notation to make this more general. We represent our input coordinates as `(x1, x2)` instead of `(x, y)`. Let's rewrite the equation again:
 
-```math
+$$
 (-m)x_1 + (1)x_2 - c = 0
-```
+$$
 
 This is the same equation, just with different variable names. Now, let's map this to machine learning terms:
 - We'll call `-m` our first **weight**, `w1`.
@@ -70,9 +70,9 @@ This is the same equation, just with different variable names. Now, let's map th
 
 Substituting these gives us the standard machine learning form for a line:
 
-```math
+$$
 w_1 x_1 + w_2 x_2 + b = 0
-```
+$$
 
 But why do we now have two weights (`w1`, `w2`) when the original equation only had one slope (`m`)?
 
@@ -85,9 +85,9 @@ This equation defines the decision boundary. The expression `w_1 x_1 + w_2 x_2 +
 
 We can use this property to classify new points. We calculate the value of `w · x + b` and check its sign. This gives us our classification rule:
 
-```math
+$$
 y_{predicted} = \text{sign}(w \cdot x + b)
-```
+$$
 
 Let's break down what each symbol means:
 -   `w`: The **weights** (`w1`, `w2`, etc.), which define the orientation (slope) of the decision boundary.
