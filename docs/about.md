@@ -41,9 +41,9 @@ If you have any problems or notice any issues/typos, please reach out to one of 
 
 
 # Acknowledgements:
-AI@UCI, 
+AI@UCI
 
-Project Co-Leads: Sri Gubbala, Jonathan Pan
+Project Co-Leads: [Sri Gubbala](https://www.linkedin.com/in/sriharshini-gubbala-283740246/), [Jonathan Pan](https://www.linkedin.com/in/jonathanypan/)
 
-Project Coordinators: Harsh Sharaff, Pranav Sethia
+Project Coordinators: Harsh Sharaff, [Pranav Sethia](https://www.linkedin.com/in/pranavsethia/)
 

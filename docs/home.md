@@ -17,8 +17,8 @@ Then, click into our first module, Week 1: Linear Classifiers.
 [![Anonymous Feedback Form](https://img.icons8.com/ios-glyphs/30/feedback.png)](https://forms.gle/oSAdcD35rzSuELyL7)
 
 # Acknowledgements:
-AI@UCI, 
+AI@UCI
 
-Project Co-Leads: Sri Gubbala, Jonathan Pan
+Project Co-Leads: [Sri Gubbala](https://www.linkedin.com/in/sriharshini-gubbala-283740246/), [Jonathan Pan](https://www.linkedin.com/in/jonathanypan/)
 
-Project Coordinators: Harsh Sharaff, Pranav Sethia
+Project Coordinators: Harsh Sharaff, [Pranav Sethia](https://www.linkedin.com/in/pranavsethia/)
