@@ -21,4 +21,4 @@ AI@UCI,
 
 Project Co-Leads: Sri Gubbala, Jonathan Pan
 
-Project Coordinators: Harsh, Pranav
+Project Coordinators: Harsh Sharaff, Pranav Sethia

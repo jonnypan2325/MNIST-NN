@@ -40,9 +40,10 @@ If you have any problems or notice any issues/typos, please reach out to one of 
 
 
 
-# Acknowledgement:
+# Acknowledgements:
 AI@UCI, 
 
 Project Co-Leads: Sri Gubbala, Jonathan Pan
 
-Project Coordinators: Harsh, Pranav
+Project Coordinators: Harsh Sharaff, Pranav Sethia
+
