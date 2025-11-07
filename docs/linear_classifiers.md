@@ -7,7 +7,9 @@ subtitle: "Understanding how weights and bias create decision boundaries."
 
 
 ## Accompanying notebook:
-[![Open the Complementary Notebook In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/199srarZ--a0UNndEN86Kv-Q321S5Z8UZ/view?usp=sharing)
+<a href="https://colab.research.google.com/drive/199srarZ--a0UNndEN86Kv-Q321S5Z8UZ#scrollTo=20b1d82c" target="_blank">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open the Complementary Notebook In Colab">
+</a>
 
 Click File -> Save a copy in Drive
 
